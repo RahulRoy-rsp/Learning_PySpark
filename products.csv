@@ -1,0 +1,708 @@
+Product_ID,Product_Name,Order_Date,Order_Price,Order_Status,Product_price
+1,Book,2023-06-29,₹ 514,out of stock,514
+2,Ticket,2021-10-28,₹ 2347,out of stock,2347
+3,Health-Kit,2021-07-10,₹ 1215,shipped,1215
+5,Console,2022-09-24,₹ 2037,out for delivery,2037
+6,PS,2024-01-13,₹ 1752,not shipped,1752
+9,Watch,2021-07-31,₹ 769,out for delivery,769
+11,Console,2021-10-30,₹ 2025,shipped,2025
+12,PS,2023-10-09,₹ 881,out of stock,881
+13,Watch,2022-11-18,₹ 970,not shipped,970
+14,Ticket,2022-12-03,₹ 1376,shipped,1376
+15,Watch,2022-01-14,₹ 2085,out for delivery,2085
+16,PS,2021-07-31,₹ 1081,not shipped,1081
+17,PS,2024-02-02,₹ 2114,not shipped,2114
+19,Console,2022-10-28,₹ 929,shipped,929
+20,Ticket,2023-06-28,₹ 530,shipped,530
+21,Book,2021-08-12,₹ 2320,out of stock,2320
+22,Health-Kit,2022-11-03,₹ 1346,not shipped,1346
+23,Watch,2022-12-05,₹ 1579,out for delivery,1579
+24,PS,2021-10-19,₹ 686,out for delivery,686
+25,Watch,2023-06-24,₹ 1924,out for delivery,1924
+26,Console,2022-08-28,₹ 848,shipped,848
+27,PS,2021-11-25,₹ 866,out of stock,866
+28,Ticket,2021-12-24,₹ 1471,shipped,1471
+30,Ticket,2021-12-08,₹ 1143,out for delivery,1143
+31,PS,2022-04-26,₹ 2368,out for delivery,2368
+32,PS,2023-11-09,₹ 2345,out of stock,2345
+33,Book,2023-06-12,₹ 657,out for delivery,657
+34,Ticket,2022-08-11,₹ 2326,not shipped,2326
+35,PS,2023-02-17,₹ 1873,shipped,1873
+36,Health-Kit,2022-11-25,₹ 1464,not shipped,1464
+37,Book,2023-03-01,₹ 2278,not shipped,2278
+38,Health-Kit,2023-07-08,₹ 1991,not shipped,1991
+40,Watch,2023-07-16,₹ 2298,shipped,2298
+41,Console,2024-04-05,₹ 1747,shipped,1747
+42,PS,2022-05-13,₹ 1698,out of stock,1698
+43,Ticket,2023-03-30,₹ 1125,not shipped,1125
+45,PS,2023-04-08,₹ 727,out of stock,727
+46,Book,2022-04-24,₹ 1279,out for delivery,1279
+47,Health-Kit,2021-12-27,₹ 689,out of stock,689
+48,Console,2023-12-29,₹ 1845,not shipped,1845
+50,Watch,2023-12-11,₹ 891,out of stock,891
+51,Watch,2023-07-01,₹ 855,out of stock,855
+52,PS,2023-05-11,₹ 1267,out of stock,1267
+53,Ticket,2022-03-03,₹ 2220,out for delivery,2220
+54,Console,2022-01-08,₹ 655,out for delivery,655
+55,Ticket,2024-02-10,₹ 766,out for delivery,766
+57,Console,2023-06-02,₹ 1949,out for delivery,1949
+58,Book,2021-08-29,₹ 1580,out for delivery,1580
+60,PS,2021-11-01,₹ 1205,shipped,1205
+61,Ticket,2024-03-23,₹ 1951,out of stock,1951
+62,PS,2023-10-03,₹ 1978,shipped,1978
+63,Console,2023-11-03,₹ 1490,out for delivery,1490
+64,PS,2023-03-25,₹ 511,shipped,511
+67,Ticket,2021-07-10,₹ 1792,not shipped,1792
+68,Health-Kit,2022-02-26,₹ 522,shipped,522
+69,Console,2023-03-22,₹ 2053,out for delivery,2053
+70,Console,2022-05-24,₹ 584,shipped,584
+72,PS,2022-02-27,₹ 819,out for delivery,819
+73,Ticket,2021-12-17,₹ 1919,shipped,1919
+74,Book,2023-02-02,₹ 912,shipped,912
+76,Book,2022-01-27,₹ 975,not shipped,975
+78,Console,2022-01-18,₹ 2236,out for delivery,2236
+80,PS,2022-02-28,₹ 1130,out for delivery,1130
+81,Ticket,2021-09-11,₹ 773,out for delivery,773
+82,Console,2022-02-23,₹ 1543,out for delivery,1543
+83,Health-Kit,2024-03-23,₹ 2198,not shipped,2198
+85,Health-Kit,2022-01-17,₹ 1125,shipped,1125
+86,Book,2023-10-22,₹ 2165,out for delivery,2165
+87,Ticket,2023-11-26,₹ 1927,out of stock,1927
+88,Ticket,2023-05-16,₹ 729,out for delivery,729
+89,Ticket,2023-03-12,₹ 1172,shipped,1172
+91,Health-Kit,2022-04-18,₹ 1387,out of stock,1387
+93,Book,2021-08-06,₹ 1373,shipped,1373
+96,Ticket,2022-03-21,₹ 1880,out for delivery,1880
+97,PS,2023-08-07,₹ 1058,out of stock,1058
+98,Ticket,2023-09-02,₹ 589,out of stock,589
+99,Ticket,2022-10-14,₹ 610,out of stock,610
+101,Console,2024-02-12,₹ 938,out of stock,938
+102,Health-Kit,2023-12-26,₹ 828,not shipped,828
+103,PS,2023-07-27,₹ 1632,out of stock,1632
+104,Console,2022-05-01,₹ 634,out of stock,634
+109,Health-Kit,2021-07-27,₹ 1849,not shipped,1849
+110,Console,2023-12-02,₹ 1788,shipped,1788
+111,Ticket,2023-03-17,₹ 2197,not shipped,2197
+114,Health-Kit,2021-10-11,₹ 1714,not shipped,1714
+115,Health-Kit,2024-03-20,₹ 1274,shipped,1274
+118,Ticket,2023-12-04,₹ 797,shipped,797
+119,Console,2023-12-17,₹ 2003,out for delivery,2003
+120,PS,2022-04-23,₹ 513,out of stock,513
+122,Ticket,2022-09-08,₹ 547,shipped,547
+124,PS,2023-02-19,₹ 2191,out of stock,2191
+127,Ticket,2022-03-04,₹ 1033,not shipped,1033
+128,Health-Kit,2022-02-13,₹ 1697,shipped,1697
+131,Console,2024-01-08,₹ 1323,out of stock,1323
+132,Console,2022-02-25,₹ 816,shipped,816
+133,Console,2022-10-19,₹ 1878,out of stock,1878
+134,Book,2024-01-30,₹ 2019,not shipped,2019
+135,Book,2022-11-19,₹ 568,not shipped,568
+137,Ticket,2023-04-19,₹ 727,shipped,727
+138,Ticket,2021-11-08,₹ 1245,shipped,1245
+139,Book,2023-03-02,₹ 1870,shipped,1870
+140,Health-Kit,2023-01-03,₹ 1966,shipped,1966
+141,Watch,2021-09-30,₹ 622,not shipped,622
+142,Ticket,2022-03-23,₹ 753,out of stock,753
+143,Health-Kit,2022-08-13,₹ 2243,out for delivery,2243
+147,Console,2023-09-28,₹ 1195,shipped,1195
+149,Console,2023-06-10,₹ 2135,not shipped,2135
+150,Ticket,2023-09-11,₹ 1443,not shipped,1443
+153,Console,2023-02-06,₹ 2243,not shipped,2243
+154,Ticket,2022-12-19,₹ 2278,out of stock,2278
+155,Book,2021-09-02,₹ 1229,out of stock,1229
+156,Ticket,2022-01-26,₹ 1866,out for delivery,1866
+157,PS,2023-11-03,₹ 1148,not shipped,1148
+159,Ticket,2021-07-14,₹ 1352,out for delivery,1352
+160,Watch,2023-02-08,₹ 1363,not shipped,1363
+165,Watch,2022-01-13,₹ 2066,out of stock,2066
+166,Ticket,2023-01-29,₹ 2459,shipped,2459
+167,Watch,2023-04-09,₹ 1598,shipped,1598
+168,Watch,2022-07-05,₹ 1462,out of stock,1462
+169,Ticket,2022-12-07,₹ 2377,out of stock,2377
+170,Watch,2023-09-19,₹ 1564,out of stock,1564
+171,Book,2021-10-16,₹ 713,not shipped,713
+172,Console,2022-11-23,₹ 1967,shipped,1967
+173,Ticket,2022-02-22,₹ 2276,not shipped,2276
+175,Book,2021-09-27,₹ 1547,not shipped,1547
+176,Watch,2023-11-02,₹ 1365,not shipped,1365
+178,PS,2023-12-29,₹ 2476,not shipped,2476
+179,Book,2024-01-03,₹ 2403,out for delivery,2403
+180,Health-Kit,2022-11-22,₹ 780,shipped,780
+182,Ticket,2023-06-21,₹ 959,out of stock,959
+183,Ticket,2024-02-09,₹ 696,not shipped,696
+185,Console,2024-03-23,₹ 2004,not shipped,2004
+187,PS,2023-05-06,₹ 1769,not shipped,1769
+188,Book,2023-10-07,₹ 595,not shipped,595
+190,Console,2022-04-24,₹ 1686,not shipped,1686
+191,Book,2021-11-01,₹ 2077,shipped,2077
+193,Ticket,2023-01-15,₹ 803,out for delivery,803
+194,Watch,2022-02-23,₹ 1284,not shipped,1284
+195,Ticket,2021-10-31,₹ 707,out for delivery,707
+197,Book,2022-07-31,₹ 1703,shipped,1703
+198,Health-Kit,2022-10-16,₹ 922,out for delivery,922
+202,Health-Kit,2021-10-03,₹ 1378,shipped,1378
+203,Console,2023-10-10,₹ 2320,out of stock,2320
+204,Health-Kit,2024-02-21,₹ 659,not shipped,659
+209,Book,2022-01-19,₹ 1006,shipped,1006
+210,Watch,2022-06-05,₹ 2384,shipped,2384
+212,Health-Kit,2023-02-07,₹ 1309,out for delivery,1309
+213,Watch,2022-09-06,₹ 1122,shipped,1122
+214,Book,2021-10-17,₹ 1119,out for delivery,1119
+216,PS,2021-09-24,₹ 1016,out for delivery,1016
+217,Ticket,2023-09-10,₹ 2080,out for delivery,2080
+219,Ticket,2021-10-01,₹ 2471,shipped,2471
+220,Ticket,2022-06-13,₹ 945,out of stock,945
+223,Health-Kit,2024-02-04,₹ 2189,out for delivery,2189
+224,Book,2023-07-16,₹ 1517,out for delivery,1517
+225,Book,2022-09-11,₹ 564,not shipped,564
+226,Console,2022-02-17,₹ 525,shipped,525
+229,Watch,2022-11-21,₹ 2157,out for delivery,2157
+231,PS,2021-09-25,₹ 889,out of stock,889
+232,Ticket,2022-05-04,₹ 2485,out for delivery,2485
+233,Ticket,2021-08-06,₹ 937,out for delivery,937
+234,Ticket,2022-08-02,₹ 1401,not shipped,1401
+235,Health-Kit,2023-10-01,₹ 1596,out of stock,1596
+236,Watch,2022-05-16,₹ 1652,out for delivery,1652
+237,Book,2023-08-04,₹ 502,shipped,502
+238,Health-Kit,2024-02-06,₹ 605,out of stock,605
+239,PS,2023-09-14,₹ 2332,out for delivery,2332
+240,Ticket,2023-01-30,₹ 1485,shipped,1485
+241,Book,2023-09-17,₹ 2339,out of stock,2339
+242,Ticket,2022-01-23,₹ 1674,out for delivery,1674
+243,Console,2024-02-19,₹ 1104,out for delivery,1104
+245,PS,2023-12-23,₹ 1673,not shipped,1673
+247,Console,2023-09-07,₹ 864,shipped,864
+248,Health-Kit,2022-11-02,₹ 2428,out of stock,2428
+249,Console,2022-11-28,₹ 1292,shipped,1292
+251,Console,2022-03-21,₹ 1048,out of stock,1048
+252,Watch,2023-03-07,₹ 2137,out for delivery,2137
+254,Ticket,2023-02-26,₹ 2246,shipped,2246
+255,Console,2023-09-18,₹ 2417,out of stock,2417
+257,Book,2021-09-04,₹ 2283,out of stock,2283
+258,Watch,2022-03-27,₹ 1111,out of stock,1111
+259,Watch,2021-08-07,₹ 2418,shipped,2418
+261,Watch,2021-10-26,₹ 1078,out for delivery,1078
+262,Book,2024-03-29,₹ 976,out for delivery,976
+263,Console,2023-11-22,₹ 1703,out for delivery,1703
+264,Watch,2022-02-25,₹ 1498,out of stock,1498
+265,PS,2024-01-16,₹ 549,not shipped,549
+267,Ticket,2022-09-16,₹ 1965,out for delivery,1965
+268,PS,2021-09-06,₹ 2386,not shipped,2386
+272,PS,2023-02-19,₹ 771,out for delivery,771
+275,PS,2023-02-04,₹ 730,out for delivery,730
+276,PS,2023-04-06,₹ 1873,shipped,1873
+277,PS,2024-03-08,₹ 1610,shipped,1610
+278,Book,2022-06-11,₹ 989,out of stock,989
+279,Watch,2021-12-15,₹ 641,out of stock,641
+280,Health-Kit,2022-06-08,₹ 1785,out of stock,1785
+281,Health-Kit,2024-02-11,₹ 2149,not shipped,2149
+282,Watch,2021-11-10,₹ 1715,not shipped,1715
+283,Console,2022-04-14,₹ 1068,out for delivery,1068
+284,Console,2023-01-11,₹ 835,shipped,835
+285,Console,2023-09-01,₹ 1242,out of stock,1242
+286,Watch,2023-08-21,₹ 2069,out of stock,2069
+287,PS,2022-02-14,₹ 1937,not shipped,1937
+289,Console,2023-12-18,₹ 624,out for delivery,624
+290,Ticket,2021-10-26,₹ 2393,not shipped,2393
+292,Console,2022-05-09,₹ 1047,out for delivery,1047
+293,Book,2023-06-19,₹ 2217,out for delivery,2217
+294,PS,2024-01-21,₹ 2092,shipped,2092
+295,Ticket,2023-04-08,₹ 1484,shipped,1484
+297,Console,2021-08-06,₹ 509,not shipped,509
+298,Watch,2023-03-27,₹ 2317,out of stock,2317
+299,Book,2022-12-08,₹ 2118,out for delivery,2118
+300,Ticket,2024-01-07,₹ 940,out for delivery,940
+301,Console,2022-12-15,₹ 1211,out of stock,1211
+302,Health-Kit,2022-06-21,₹ 1371,shipped,1371
+303,Book,2021-11-29,₹ 1476,out for delivery,1476
+304,Health-Kit,2023-04-16,₹ 2487,out of stock,2487
+306,Book,2023-06-18,₹ 660,out of stock,660
+308,Health-Kit,2021-11-09,₹ 1652,shipped,1652
+310,PS,2023-05-04,₹ 1421,out for delivery,1421
+311,Book,2022-04-29,₹ 2086,shipped,2086
+313,PS,2021-09-10,₹ 2498,out of stock,2498
+315,Watch,2022-08-05,₹ 2364,not shipped,2364
+317,Console,2022-03-26,₹ 2221,out for delivery,2221
+320,Watch,2022-07-03,₹ 2139,out for delivery,2139
+323,Console,2022-11-11,₹ 1875,shipped,1875
+324,Ticket,2023-05-16,₹ 2053,shipped,2053
+325,Watch,2023-10-09,₹ 2216,out for delivery,2216
+326,Health-Kit,2022-02-23,₹ 541,out of stock,541
+328,Health-Kit,2024-04-01,₹ 1599,not shipped,1599
+329,Health-Kit,2021-07-24,₹ 1719,shipped,1719
+331,PS,2021-09-10,₹ 2455,out for delivery,2455
+332,Ticket,2022-08-16,₹ 626,shipped,626
+333,PS,2023-10-02,₹ 1804,out for delivery,1804
+334,Watch,2023-09-24,₹ 811,out for delivery,811
+337,Console,2023-02-15,₹ 1182,shipped,1182
+342,Book,2023-08-08,₹ 1101,not shipped,1101
+343,Ticket,2024-02-16,₹ 2488,out of stock,2488
+344,Ticket,2021-09-16,₹ 1050,not shipped,1050
+345,Ticket,2022-08-20,₹ 1115,not shipped,1115
+346,Book,2022-01-02,₹ 2086,out for delivery,2086
+347,PS,2022-12-19,₹ 564,out for delivery,564
+348,PS,2023-02-13,₹ 694,shipped,694
+350,Watch,2023-09-02,₹ 2317,out for delivery,2317
+351,Ticket,2022-11-06,₹ 1217,out of stock,1217
+352,Watch,2021-09-13,₹ 2141,out for delivery,2141
+353,PS,2023-04-21,₹ 1744,out of stock,1744
+354,Health-Kit,2023-11-21,₹ 1312,out for delivery,1312
+356,Watch,2022-04-14,₹ 802,out of stock,802
+357,Watch,2023-06-04,₹ 2375,not shipped,2375
+359,Console,2024-03-14,₹ 2280,out for delivery,2280
+360,Watch,2021-12-04,₹ 2095,not shipped,2095
+361,PS,2022-09-16,₹ 1738,not shipped,1738
+362,Ticket,2023-12-21,₹ 1164,shipped,1164
+363,PS,2022-03-09,₹ 597,out for delivery,597
+364,Health-Kit,2023-11-28,₹ 731,out of stock,731
+365,Book,2021-09-07,₹ 1290,out for delivery,1290
+366,Book,2023-10-27,₹ 1482,not shipped,1482
+367,Console,2023-12-13,₹ 2025,shipped,2025
+369,Ticket,2022-05-23,₹ 2344,out of stock,2344
+370,Book,2023-11-10,₹ 1926,out for delivery,1926
+371,Book,2022-07-26,₹ 780,out for delivery,780
+372,Book,2022-11-04,₹ 1593,shipped,1593
+373,Console,2022-02-19,₹ 1910,not shipped,1910
+374,Watch,2023-02-07,₹ 538,out of stock,538
+376,Watch,2023-03-25,₹ 2316,out for delivery,2316
+378,Ticket,2021-11-19,₹ 914,out for delivery,914
+379,Book,2023-11-23,₹ 1918,shipped,1918
+380,Book,2023-03-26,₹ 1245,out for delivery,1245
+382,Watch,2023-10-31,₹ 763,shipped,763
+383,Health-Kit,2022-12-19,₹ 1786,out of stock,1786
+385,Book,2022-12-22,₹ 1356,out for delivery,1356
+386,Book,2023-11-18,₹ 767,out for delivery,767
+387,Watch,2024-03-23,₹ 1484,not shipped,1484
+388,Book,2022-01-09,₹ 1731,shipped,1731
+389,Health-Kit,2023-11-11,₹ 1996,shipped,1996
+390,Watch,2022-04-06,₹ 1086,not shipped,1086
+391,Health-Kit,2022-08-23,₹ 2419,out for delivery,2419
+392,Health-Kit,2022-08-17,₹ 1865,out for delivery,1865
+393,PS,2024-03-29,₹ 2110,shipped,2110
+394,Book,2023-10-17,₹ 1613,not shipped,1613
+395,Book,2024-03-19,₹ 564,not shipped,564
+396,PS,2023-04-19,₹ 631,not shipped,631
+397,Watch,2022-07-13,₹ 594,out for delivery,594
+398,Watch,2022-02-28,₹ 1140,out for delivery,1140
+399,Ticket,2022-11-14,₹ 1075,shipped,1075
+400,Book,2021-10-09,₹ 945,out of stock,945
+401,Ticket,2023-09-29,₹ 705,not shipped,705
+403,Ticket,2023-05-30,₹ 617,out for delivery,617
+404,Console,2023-05-19,₹ 2235,out for delivery,2235
+405,Console,2021-08-30,₹ 1781,out of stock,1781
+406,Console,2022-09-03,₹ 633,not shipped,633
+407,Watch,2022-05-18,₹ 1245,not shipped,1245
+408,Health-Kit,2023-07-10,₹ 1091,out of stock,1091
+409,Watch,2022-05-26,₹ 1368,not shipped,1368
+411,Ticket,2023-05-17,₹ 2061,not shipped,2061
+412,Book,2024-03-07,₹ 2486,out of stock,2486
+414,Health-Kit,2023-04-26,₹ 556,out for delivery,556
+417,Watch,2021-09-28,₹ 2353,out for delivery,2353
+418,Console,2024-03-11,₹ 1444,not shipped,1444
+419,Ticket,2022-07-21,₹ 971,out for delivery,971
+420,Book,2023-12-11,₹ 2404,out of stock,2404
+421,Ticket,2021-12-04,₹ 1186,not shipped,1186
+424,Health-Kit,2023-09-07,₹ 2286,out of stock,2286
+425,Book,2021-09-04,₹ 2256,not shipped,2256
+426,Health-Kit,2021-11-14,₹ 834,out for delivery,834
+427,PS,2022-11-24,₹ 907,out of stock,907
+428,Book,2023-03-10,₹ 1973,out for delivery,1973
+432,Console,2023-08-07,₹ 1934,out for delivery,1934
+433,Console,2023-08-24,₹ 2256,shipped,2256
+434,Watch,2022-02-16,₹ 1189,out for delivery,1189
+435,PS,2022-10-13,₹ 1190,not shipped,1190
+436,Book,2021-08-01,₹ 1364,not shipped,1364
+437,Watch,2021-11-07,₹ 1301,out of stock,1301
+439,PS,2023-06-28,₹ 2223,not shipped,2223
+441,Book,2021-07-29,₹ 627,shipped,627
+442,Ticket,2023-06-14,₹ 1029,shipped,1029
+444,Watch,2023-09-04,₹ 1573,out for delivery,1573
+445,Watch,2022-07-01,₹ 1055,not shipped,1055
+446,Watch,2023-07-01,₹ 1873,shipped,1873
+447,Book,2023-11-16,₹ 1072,not shipped,1072
+449,Console,2022-02-08,₹ 1605,out for delivery,1605
+450,Health-Kit,2022-08-29,₹ 2287,shipped,2287
+451,PS,2023-03-07,₹ 2239,not shipped,2239
+452,Console,2022-09-11,₹ 1214,out of stock,1214
+454,PS,2022-06-15,₹ 2345,not shipped,2345
+455,Health-Kit,2022-10-03,₹ 1446,out of stock,1446
+456,Console,2022-06-13,₹ 2027,out of stock,2027
+458,Ticket,2022-05-29,₹ 2190,shipped,2190
+461,PS,2022-07-28,₹ 1010,shipped,1010
+462,Ticket,2021-11-28,₹ 1067,not shipped,1067
+463,Console,2024-03-06,₹ 1318,out of stock,1318
+464,Console,2023-11-02,₹ 2013,not shipped,2013
+465,Health-Kit,2022-06-03,₹ 2058,out of stock,2058
+466,Book,2023-06-08,₹ 1898,not shipped,1898
+467,Ticket,2023-01-13,₹ 1223,not shipped,1223
+468,Health-Kit,2022-04-05,₹ 2208,shipped,2208
+469,Book,2021-08-09,₹ 1826,out for delivery,1826
+470,Ticket,2021-10-16,₹ 1169,not shipped,1169
+471,Console,2021-08-11,₹ 2078,out of stock,2078
+472,Console,2023-11-26,₹ 605,not shipped,605
+473,Health-Kit,2023-06-02,₹ 1067,out for delivery,1067
+474,Health-Kit,2023-08-19,₹ 1470,out of stock,1470
+475,PS,2022-11-03,₹ 707,not shipped,707
+477,Book,2022-03-23,₹ 882,out of stock,882
+478,Book,2022-02-23,₹ 1759,out for delivery,1759
+479,PS,2021-07-31,₹ 2166,out for delivery,2166
+480,Book,2024-01-16,₹ 1994,out of stock,1994
+483,Health-Kit,2024-02-07,₹ 547,not shipped,547
+484,Book,2022-12-09,₹ 1222,shipped,1222
+487,PS,2022-04-22,₹ 1269,out for delivery,1269
+490,Watch,2022-11-27,₹ 1168,shipped,1168
+491,Health-Kit,2022-03-30,₹ 906,not shipped,906
+493,Watch,2021-08-20,₹ 2403,out of stock,2403
+495,PS,2023-01-12,₹ 1408,out of stock,1408
+496,PS,2022-01-12,₹ 1774,out for delivery,1774
+497,Console,2023-08-06,₹ 2202,not shipped,2202
+498,Ticket,2024-03-15,₹ 2123,out for delivery,2123
+500,Ticket,2024-03-11,₹ 557,out of stock,557
+501,Console,2022-04-04,₹ 1335,not shipped,1335
+504,Console,2021-12-24,₹ 1942,out for delivery,1942
+506,Book,2022-04-24,₹ 934,shipped,934
+508,Health-Kit,2023-06-22,₹ 1066,not shipped,1066
+509,Ticket,2023-04-23,₹ 709,out for delivery,709
+510,PS,2023-10-11,₹ 2337,out of stock,2337
+512,PS,2021-08-19,₹ 1090,not shipped,1090
+513,Console,2022-02-22,₹ 1719,out for delivery,1719
+514,Watch,2024-02-10,₹ 1198,not shipped,1198
+516,PS,2023-04-25,₹ 691,out for delivery,691
+517,Health-Kit,2023-03-17,₹ 1615,not shipped,1615
+518,Ticket,2024-01-02,₹ 2494,out of stock,2494
+519,Ticket,2023-11-11,₹ 902,shipped,902
+520,Book,2023-01-31,₹ 2406,shipped,2406
+521,Health-Kit,2022-01-05,₹ 2157,not shipped,2157
+522,Book,2022-11-19,₹ 695,out for delivery,695
+523,Ticket,2023-07-23,₹ 929,not shipped,929
+524,Book,2024-03-03,₹ 1075,not shipped,1075
+525,Console,2022-09-19,₹ 1274,out for delivery,1274
+526,PS,2022-05-25,₹ 668,out for delivery,668
+528,PS,2022-06-17,₹ 1299,out of stock,1299
+531,Health-Kit,2021-09-06,₹ 1088,out for delivery,1088
+532,Console,2023-06-09,₹ 1582,out of stock,1582
+533,Health-Kit,2022-10-31,₹ 1395,shipped,1395
+534,Console,2021-10-31,₹ 2021,out of stock,2021
+535,PS,2021-10-08,₹ 1654,out for delivery,1654
+536,Ticket,2024-03-14,₹ 1246,out of stock,1246
+539,Health-Kit,2021-11-29,₹ 1061,out of stock,1061
+540,Book,2023-09-30,₹ 1533,shipped,1533
+542,PS,2023-02-04,₹ 619,not shipped,619
+543,Watch,2023-12-30,₹ 1747,not shipped,1747
+544,Book,2023-07-07,₹ 1449,shipped,1449
+546,Book,2022-01-20,₹ 1980,not shipped,1980
+547,Health-Kit,2023-05-27,₹ 728,shipped,728
+548,Watch,2023-09-13,₹ 1745,out of stock,1745
+550,Watch,2022-09-30,₹ 1282,out of stock,1282
+552,Ticket,2022-07-20,₹ 1222,out of stock,1222
+556,Watch,2023-12-12,₹ 1356,out of stock,1356
+558,Book,2022-10-04,₹ 593,out for delivery,593
+561,Watch,2023-01-25,₹ 889,out of stock,889
+562,Watch,2023-01-24,₹ 2016,not shipped,2016
+563,Book,2024-03-06,₹ 1991,not shipped,1991
+565,PS,2024-03-24,₹ 1499,not shipped,1499
+566,Health-Kit,2022-09-06,₹ 1979,out for delivery,1979
+569,Watch,2023-01-12,₹ 1294,shipped,1294
+570,Ticket,2024-01-11,₹ 1490,not shipped,1490
+573,Health-Kit,2024-01-04,₹ 1867,shipped,1867
+574,Health-Kit,2023-12-23,₹ 2119,shipped,2119
+576,Health-Kit,2022-08-22,₹ 741,out of stock,741
+578,PS,2022-01-16,₹ 723,not shipped,723
+579,Console,2023-04-22,₹ 2464,not shipped,2464
+580,Book,2023-09-11,₹ 1380,shipped,1380
+581,Book,2021-07-28,₹ 1306,out for delivery,1306
+582,Watch,2024-02-11,₹ 2445,out for delivery,2445
+585,Ticket,2023-05-24,₹ 2128,out of stock,2128
+587,Watch,2023-04-29,₹ 824,shipped,824
+588,Ticket,2024-03-19,₹ 1705,out for delivery,1705
+590,Health-Kit,2021-08-25,₹ 602,out of stock,602
+592,Book,2023-05-18,₹ 2139,not shipped,2139
+593,PS,2021-10-02,₹ 1162,shipped,1162
+594,PS,2023-11-02,₹ 1973,out of stock,1973
+595,Ticket,2022-04-13,₹ 648,shipped,648
+596,Health-Kit,2022-04-23,₹ 2366,out of stock,2366
+597,PS,2022-09-09,₹ 2048,out for delivery,2048
+598,Health-Kit,2023-05-01,₹ 1527,not shipped,1527
+600,PS,2021-12-18,₹ 670,shipped,670
+602,Watch,2023-08-06,₹ 888,shipped,888
+604,Ticket,2023-01-02,₹ 638,out for delivery,638
+605,PS,2021-08-27,₹ 1384,shipped,1384
+606,PS,2023-12-04,₹ 2017,out for delivery,2017
+607,Book,2023-08-28,₹ 1054,shipped,1054
+609,Book,2022-01-15,₹ 2363,shipped,2363
+611,Watch,2022-02-08,₹ 2122,not shipped,2122
+612,Book,2022-03-22,₹ 749,out of stock,749
+615,Ticket,2023-01-03,₹ 1669,shipped,1669
+616,Ticket,2021-08-27,₹ 1018,shipped,1018
+618,Ticket,2021-07-26,₹ 1235,shipped,1235
+620,PS,2022-10-17,₹ 1249,out for delivery,1249
+621,Console,2023-06-26,₹ 1480,shipped,1480
+622,Console,2023-07-09,₹ 2386,out for delivery,2386
+623,Watch,2021-12-01,₹ 1864,out of stock,1864
+626,Console,2022-09-23,₹ 1683,shipped,1683
+628,Ticket,2023-06-10,₹ 1258,shipped,1258
+629,Health-Kit,2022-07-27,₹ 2374,not shipped,2374
+630,Watch,2023-01-15,₹ 715,out of stock,715
+634,Ticket,2022-11-05,₹ 895,out for delivery,895
+636,Console,2023-10-27,₹ 2261,out of stock,2261
+638,Book,2024-02-03,₹ 1073,not shipped,1073
+639,Console,2022-10-12,₹ 2007,out of stock,2007
+640,Health-Kit,2023-12-31,₹ 1706,out of stock,1706
+641,Ticket,2023-02-21,₹ 1275,out for delivery,1275
+642,Watch,2024-03-18,₹ 2169,out of stock,2169
+644,Watch,2023-04-27,₹ 1090,out for delivery,1090
+647,Watch,2023-09-14,₹ 511,out of stock,511
+648,Health-Kit,2023-04-27,₹ 902,out for delivery,902
+649,PS,2021-10-23,₹ 1649,out of stock,1649
+651,Console,2023-07-03,₹ 766,out of stock,766
+652,PS,2023-12-11,₹ 1970,out for delivery,1970
+653,Console,2021-08-24,₹ 2136,out for delivery,2136
+654,Book,2022-05-21,₹ 1992,out of stock,1992
+655,Console,2023-01-04,₹ 1270,shipped,1270
+656,PS,2022-07-27,₹ 2326,not shipped,2326
+657,PS,2023-05-13,₹ 2134,out for delivery,2134
+658,Health-Kit,2021-10-03,₹ 2010,out of stock,2010
+659,Book,2022-10-21,₹ 1228,out for delivery,1228
+660,Ticket,2022-08-15,₹ 1038,out of stock,1038
+661,Watch,2023-02-17,₹ 1393,shipped,1393
+663,Book,2021-10-31,₹ 2268,out for delivery,2268
+664,Ticket,2022-04-21,₹ 1599,not shipped,1599
+665,Book,2023-01-20,₹ 1566,shipped,1566
+666,Health-Kit,2023-10-24,₹ 1820,not shipped,1820
+667,Console,2022-09-23,₹ 1496,shipped,1496
+668,Console,2023-03-18,₹ 2391,out for delivery,2391
+669,Ticket,2023-10-18,₹ 774,not shipped,774
+670,PS,2023-08-29,₹ 2336,out of stock,2336
+672,Ticket,2023-04-03,₹ 2465,out for delivery,2465
+673,Watch,2021-08-14,₹ 1622,shipped,1622
+674,PS,2023-07-18,₹ 1408,out of stock,1408
+675,Book,2022-08-01,₹ 1612,out for delivery,1612
+676,Health-Kit,2021-12-11,₹ 935,out of stock,935
+677,Book,2024-02-07,₹ 2445,out for delivery,2445
+678,PS,2023-12-19,₹ 1446,not shipped,1446
+679,Ticket,2023-12-10,₹ 1576,shipped,1576
+680,Health-Kit,2021-09-11,₹ 1171,shipped,1171
+681,Watch,2022-12-09,₹ 1634,out of stock,1634
+682,Health-Kit,2023-02-02,₹ 1452,out for delivery,1452
+683,Ticket,2023-12-24,₹ 565,shipped,565
+684,Watch,2022-04-02,₹ 649,out of stock,649
+686,Console,2023-03-08,₹ 2170,not shipped,2170
+687,Health-Kit,2023-05-02,₹ 1690,out for delivery,1690
+688,Health-Kit,2022-03-20,₹ 685,out of stock,685
+689,Book,2022-07-29,₹ 966,not shipped,966
+690,Health-Kit,2023-01-09,₹ 1955,not shipped,1955
+692,Watch,2023-01-24,₹ 1289,out of stock,1289
+693,Watch,2022-04-07,₹ 1961,not shipped,1961
+694,Health-Kit,2024-02-16,₹ 714,out of stock,714
+696,PS,2023-07-01,₹ 1084,out for delivery,1084
+697,Book,2023-05-25,₹ 1156,not shipped,1156
+698,Watch,2022-05-23,₹ 1077,out for delivery,1077
+700,Console,2023-01-01,₹ 1327,not shipped,1327
+701,Book,2023-12-23,₹ 724,out of stock,724
+702,Console,2023-11-12,₹ 1567,not shipped,1567
+703,Book,2021-08-12,₹ 791,out for delivery,791
+704,Console,2024-01-24,₹ 1828,not shipped,1828
+705,Watch,2022-07-01,₹ 1042,out for delivery,1042
+706,Book,2023-03-08,₹ 2339,not shipped,2339
+707,Console,2022-10-02,₹ 1820,out of stock,1820
+709,Console,2024-03-26,₹ 2304,out of stock,2304
+710,Watch,2023-05-19,₹ 583,out of stock,583
+712,Watch,2021-11-10,₹ 2385,out of stock,2385
+713,Health-Kit,2023-11-26,₹ 1979,out of stock,1979
+714,PS,2022-07-19,₹ 2219,not shipped,2219
+718,Book,2024-04-04,₹ 630,not shipped,630
+720,Book,2024-03-26,₹ 2055,not shipped,2055
+721,Console,2024-03-20,₹ 646,shipped,646
+722,PS,2021-11-14,₹ 2360,out for delivery,2360
+723,Health-Kit,2024-03-15,₹ 1229,shipped,1229
+724,Health-Kit,2022-05-09,₹ 906,not shipped,906
+725,Health-Kit,2024-04-05,₹ 2055,out for delivery,2055
+727,Ticket,2023-01-09,₹ 1550,not shipped,1550
+728,Health-Kit,2023-04-11,₹ 1692,out of stock,1692
+730,Watch,2023-12-12,₹ 2226,shipped,2226
+731,Ticket,2023-10-10,₹ 1474,out of stock,1474
+732,PS,2021-10-07,₹ 2298,shipped,2298
+734,PS,2023-03-17,₹ 555,out of stock,555
+736,Health-Kit,2024-01-23,₹ 1203,not shipped,1203
+737,Watch,2021-11-25,₹ 665,out for delivery,665
+738,Book,2022-03-24,₹ 793,out of stock,793
+739,Ticket,2023-09-14,₹ 787,out of stock,787
+740,Ticket,2022-07-01,₹ 2082,out of stock,2082
+744,Health-Kit,2021-12-16,₹ 889,out of stock,889
+745,Ticket,2023-10-10,₹ 945,out of stock,945
+746,Book,2022-09-21,₹ 1415,out for delivery,1415
+747,Ticket,2021-10-28,₹ 670,out for delivery,670
+749,Ticket,2021-09-25,₹ 901,out for delivery,901
+750,Ticket,2023-04-11,₹ 1956,not shipped,1956
+751,Ticket,2023-03-12,₹ 1199,not shipped,1199
+752,Ticket,2021-11-03,₹ 2405,out for delivery,2405
+753,Health-Kit,2022-10-22,₹ 1662,out for delivery,1662
+754,Console,2023-11-08,₹ 1755,out for delivery,1755
+755,Watch,2022-02-10,₹ 1335,out of stock,1335
+756,PS,2024-01-02,₹ 1589,out for delivery,1589
+757,Ticket,2023-02-14,₹ 1865,out of stock,1865
+760,Health-Kit,2023-09-30,₹ 2292,not shipped,2292
+763,Ticket,2022-07-21,₹ 828,shipped,828
+764,Book,2023-11-27,₹ 980,out for delivery,980
+765,Health-Kit,2023-10-15,₹ 2403,shipped,2403
+766,Book,2021-08-03,₹ 1274,shipped,1274
+767,Health-Kit,2023-06-12,₹ 1133,shipped,1133
+768,Watch,2022-02-22,₹ 1922,not shipped,1922
+769,Console,2022-07-28,₹ 1271,out for delivery,1271
+770,Health-Kit,2024-01-23,₹ 1269,out of stock,1269
+771,Watch,2021-07-27,₹ 2280,shipped,2280
+773,Watch,2023-12-16,₹ 1914,out for delivery,1914
+774,PS,2023-02-09,₹ 1896,out for delivery,1896
+775,Health-Kit,2023-10-22,₹ 2102,out of stock,2102
+777,Watch,2023-06-11,₹ 1955,out for delivery,1955
+782,Console,2022-04-07,₹ 1147,shipped,1147
+783,Console,2022-03-13,₹ 543,not shipped,543
+785,Watch,2022-05-22,₹ 1330,out for delivery,1330
+786,Watch,2024-02-12,₹ 2423,shipped,2423
+789,Watch,2024-01-13,₹ 1357,shipped,1357
+790,Ticket,2022-03-01,₹ 2182,shipped,2182
+791,Health-Kit,2022-04-13,₹ 1846,out for delivery,1846
+794,Watch,2023-04-11,₹ 1844,out of stock,1844
+795,Watch,2021-08-13,₹ 2211,not shipped,2211
+796,Book,2023-04-23,₹ 597,out of stock,597
+797,Ticket,2021-11-22,₹ 2072,not shipped,2072
+799,Book,2024-01-27,₹ 1467,shipped,1467
+800,Book,2023-01-12,₹ 2232,shipped,2232
+803,Console,2022-09-24,₹ 918,shipped,918
+804,Watch,2022-09-18,₹ 807,out for delivery,807
+806,Ticket,2023-05-09,₹ 655,not shipped,655
+807,Book,2023-11-27,₹ 519,out of stock,519
+808,Watch,2022-07-01,₹ 753,shipped,753
+809,PS,2023-12-08,₹ 2123,out for delivery,2123
+815,Health-Kit,2022-07-07,₹ 1641,not shipped,1641
+818,Health-Kit,2022-03-01,₹ 1789,not shipped,1789
+819,PS,2022-10-18,₹ 725,not shipped,725
+821,PS,2023-11-11,₹ 1718,out for delivery,1718
+822,Ticket,2024-02-01,₹ 1737,out of stock,1737
+823,PS,2023-05-20,₹ 1567,not shipped,1567
+824,Ticket,2024-02-22,₹ 2015,out of stock,2015
+825,Health-Kit,2023-06-19,₹ 1736,out of stock,1736
+826,Ticket,2024-03-25,₹ 688,not shipped,688
+827,Ticket,2022-07-18,₹ 1352,shipped,1352
+828,Ticket,2021-11-06,₹ 1495,shipped,1495
+829,Watch,2023-06-23,₹ 812,out of stock,812
+830,Ticket,2021-10-25,₹ 2312,out of stock,2312
+831,PS,2023-01-29,₹ 1604,not shipped,1604
+832,Book,2023-01-24,₹ 2274,out for delivery,2274
+833,Watch,2021-09-04,₹ 1219,out for delivery,1219
+834,PS,2021-10-04,₹ 684,out for delivery,684
+835,Health-Kit,2021-11-14,₹ 1659,shipped,1659
+836,Watch,2021-08-24,₹ 2248,not shipped,2248
+837,Health-Kit,2023-02-10,₹ 1204,shipped,1204
+838,Health-Kit,2023-10-02,₹ 1412,out of stock,1412
+839,Watch,2021-10-07,₹ 1728,out for delivery,1728
+840,Ticket,2022-11-18,₹ 942,out of stock,942
+841,PS,2023-08-23,₹ 2345,not shipped,2345
+844,PS,2021-11-22,₹ 1174,not shipped,1174
+845,PS,2022-06-26,₹ 1655,out for delivery,1655
+846,Health-Kit,2022-03-11,₹ 830,shipped,830
+847,Book,2022-03-21,₹ 1340,out of stock,1340
+849,Ticket,2021-10-06,₹ 719,not shipped,719
+850,Ticket,2024-02-01,₹ 1993,out for delivery,1993
+851,Watch,2023-02-05,₹ 1000,out of stock,1000
+852,Book,2024-03-19,₹ 2294,out for delivery,2294
+853,Book,2022-01-15,₹ 1884,shipped,1884
+854,Health-Kit,2023-03-02,₹ 1252,shipped,1252
+855,Console,2024-01-27,₹ 1279,out of stock,1279
+857,Console,2022-09-24,₹ 2212,shipped,2212
+860,Ticket,2023-12-21,₹ 2087,not shipped,2087
+863,Health-Kit,2023-10-29,₹ 2244,shipped,2244
+864,Book,2022-06-10,₹ 1691,out for delivery,1691
+868,Watch,2023-11-20,₹ 2337,out for delivery,2337
+869,PS,2022-06-12,₹ 688,not shipped,688
+870,PS,2023-08-29,₹ 644,shipped,644
+872,Ticket,2024-02-19,₹ 1182,not shipped,1182
+873,Console,2024-01-19,₹ 1973,shipped,1973
+874,Ticket,2022-06-07,₹ 1001,not shipped,1001
+877,Book,2023-06-25,₹ 1930,out of stock,1930
+881,Console,2022-12-09,₹ 2267,out for delivery,2267
+882,Ticket,2023-04-09,₹ 692,not shipped,692
+883,Book,2022-12-07,₹ 1710,out of stock,1710
+885,Health-Kit,2022-12-28,₹ 2471,out for delivery,2471
+888,Ticket,2024-03-13,₹ 1706,shipped,1706
+889,Ticket,2023-10-26,₹ 651,out of stock,651
+890,PS,2023-09-19,₹ 1355,out of stock,1355
+891,Health-Kit,2021-10-20,₹ 2133,out for delivery,2133
+892,PS,2022-02-13,₹ 913,out of stock,913
+893,Watch,2021-09-12,₹ 1275,shipped,1275
+895,Watch,2022-11-10,₹ 1020,out of stock,1020
+897,PS,2023-05-29,₹ 2440,shipped,2440
+898,Health-Kit,2021-09-14,₹ 1617,shipped,1617
+899,Ticket,2021-10-21,₹ 1834,out of stock,1834
+900,Ticket,2023-05-02,₹ 1686,not shipped,1686
+902,Health-Kit,2024-02-04,₹ 576,out for delivery,576
+903,Health-Kit,2023-08-05,₹ 1067,out of stock,1067
+904,PS,2024-04-02,₹ 1580,out of stock,1580
+905,PS,2023-12-03,₹ 598,not shipped,598
+906,Console,2022-01-02,₹ 1127,not shipped,1127
+909,Ticket,2024-01-24,₹ 1250,out of stock,1250
+911,Ticket,2022-02-10,₹ 1096,out for delivery,1096
+912,Watch,2022-04-03,₹ 739,out of stock,739
+913,Watch,2022-07-01,₹ 1139,out of stock,1139
+914,Console,2023-11-13,₹ 894,out for delivery,894
+915,Health-Kit,2022-01-03,₹ 1050,out for delivery,1050
+917,Book,2022-11-17,₹ 836,out of stock,836
+918,Watch,2022-03-19,₹ 1835,out of stock,1835
+919,Health-Kit,2021-07-10,₹ 1893,out for delivery,1893
+920,Health-Kit,2023-05-29,₹ 1082,not shipped,1082
+921,PS,2024-03-29,₹ 1226,out of stock,1226
+922,Ticket,2022-01-06,₹ 1238,not shipped,1238
+923,Watch,2023-09-13,₹ 2286,out for delivery,2286
+924,Console,2021-11-03,₹ 1185,shipped,1185
+925,Console,2024-01-23,₹ 718,not shipped,718
+926,PS,2022-04-30,₹ 1452,out for delivery,1452
+927,Health-Kit,2023-08-17,₹ 2023,out for delivery,2023
+928,Ticket,2023-09-30,₹ 2343,not shipped,2343
+929,Book,2023-11-15,₹ 2384,out of stock,2384
+930,Console,2023-04-21,₹ 1816,out of stock,1816
+931,Console,2022-10-16,₹ 1643,out for delivery,1643
+932,Ticket,2023-07-31,₹ 2147,not shipped,2147
+933,Ticket,2021-12-18,₹ 2424,out for delivery,2424
+934,PS,2022-07-23,₹ 1486,out for delivery,1486
+936,Health-Kit,2023-02-04,₹ 1116,not shipped,1116
+937,Health-Kit,2023-01-07,₹ 1224,not shipped,1224
+938,PS,2023-06-07,₹ 1973,out of stock,1973
+939,Health-Kit,2021-11-03,₹ 2004,not shipped,2004
+940,Console,2023-07-29,₹ 1634,out for delivery,1634
+942,Console,2021-12-30,₹ 876,out of stock,876
+943,PS,2022-12-02,₹ 1788,out for delivery,1788
+944,Console,2021-08-31,₹ 2185,out for delivery,2185
+945,Book,2022-04-15,₹ 578,not shipped,578
+946,Book,2021-09-22,₹ 2090,not shipped,2090
+947,Ticket,2022-04-29,₹ 2106,out for delivery,2106
+948,Watch,2022-11-16,₹ 2347,out of stock,2347
+949,Watch,2023-10-09,₹ 2237,out of stock,2237
+953,Watch,2023-08-02,₹ 1420,out of stock,1420
+954,Watch,2021-08-17,₹ 1166,out of stock,1166
+955,Health-Kit,2022-04-13,₹ 903,shipped,903
+959,Watch,2023-06-14,₹ 545,not shipped,545
+962,Ticket,2022-01-12,₹ 762,shipped,762
+964,PS,2024-01-15,₹ 1883,shipped,1883
+965,Book,2022-06-20,₹ 814,out of stock,814
+966,Console,2024-02-20,₹ 2220,out for delivery,2220
+967,Console,2023-05-20,₹ 2440,shipped,2440
+968,Watch,2024-01-04,₹ 662,out of stock,662
+970,Health-Kit,2024-02-17,₹ 1370,out of stock,1370
+972,PS,2023-12-13,₹ 1233,shipped,1233
+973,Watch,2021-07-23,₹ 2286,shipped,2286
+974,Book,2023-02-15,₹ 856,not shipped,856
+975,Watch,2022-07-30,₹ 1093,out of stock,1093
+976,Console,2021-12-25,₹ 1698,out for delivery,1698
+978,Console,2024-03-01,₹ 920,not shipped,920
+979,Book,2023-03-16,₹ 599,shipped,599
+980,Console,2021-11-11,₹ 1125,out for delivery,1125
+981,Health-Kit,2022-05-31,₹ 2296,not shipped,2296
+987,Book,2022-08-05,₹ 1313,shipped,1313
+989,Book,2023-05-23,₹ 1892,not shipped,1892
+993,Book,2022-04-02,₹ 1078,not shipped,1078
+994,Watch,2021-10-19,₹ 1752,out for delivery,1752
+995,Book,2023-05-19,₹ 1218,shipped,1218
+997,PS,2022-07-14,₹ 1812,out of stock,1812
+998,Book,2022-05-27,₹ 2182,out of stock,2182
+999,Book,2023-01-29,₹ 1556,not shipped,1556
+1000,Watch,2023-01-17,₹ 1050,out of stock,1050
