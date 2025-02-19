@@ -61,7 +61,7 @@ df.show()
 # [Solution 3]()
 ```python
 # Reading the CSV file
-df = spark.read.csv("df-exercise.csv", header=True, inferSchema=True)
+df = spark.read.csv("csv-files/df-exercise.csv", header=True, inferSchema=True)
 
 # Display DataFrame
 df.show()
