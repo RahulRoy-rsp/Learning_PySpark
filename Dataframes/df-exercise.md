@@ -35,3 +35,13 @@
 1. Load a CSV file into a PySpark DataFrame. Filename: df-exercise.csv.
 2. Show the records in the DataFrame.
 
+---
+
+| References |
+| ---------- |
+**[Creating Dataframes](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/dataframes.md)**
+**[Solutions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-solutions.md)**
+**[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/csv-files)**
+
+---
+**[Back to Home Page](https://github.com/RahulRoy-rsp/Learning_PySpark)**
