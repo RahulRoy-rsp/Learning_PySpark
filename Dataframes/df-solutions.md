@@ -1,4 +1,4 @@
-# [Solution 1]()
+# [Solution 1](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-exercise.md#exercise-1-create-a-simple-dataframe)
 ```python
 ## Solution 1: Create a Simple DataFrame
 from pyspark.sql import SparkSession
@@ -27,7 +27,7 @@ df.show()
 
 ---
 
-# [Solution 2]()
+# [Solution 2](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-exercise.md#exercise-2-create-a-dataframe-with-specific-data-types)
 ```python
 from pyspark.sql.types import StructType, StructField, StringType, FloatType, IntegerType
 
@@ -58,7 +58,7 @@ df.show()
 
 ---
 
-# [Solution 3]()
+# [Solution 3](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-exercise.md#exercise-3-read-a-csv-file-into-a-dataframe)
 ```python
 # Reading the CSV file
 df = spark.read.csv("csv-files/df-exercise.csv", header=True, inferSchema=True)
@@ -74,9 +74,9 @@ df.show()
 
 | References |
 | ---------- |
-**[Creating Dataframes](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/dataframes.md)**
+**[Creating Dataframes](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/dataframes.md#creating-dataframes-in-pyspark)**
 **[Questions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-exercise.md)**
-**[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/csv-files)**
+**[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/tree/main/Dataframes/csv-files)**
 
 ---
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learning_PySpark)**
