@@ -78,7 +78,7 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName("dfs-4").getOrCreate()
 
 # Read CSV file into DataFrame
-df = spark.read.csv("path/players.csv", header=True, inferSchema=True)
+df = spark.read.csv("players.csv", header=True, inferSchema=True)
 
 # Show DataFrame
 df.show()
