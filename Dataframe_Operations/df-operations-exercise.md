@@ -45,6 +45,7 @@
 **[Dataframe Operations](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations.md#pyspark-dataframe-operations)**
 **[Solutions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations-solutions.md)**
 **[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/tree/main/Dataframe_Operations/csv-files)**
+**[Notebook Solution](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df_operations_exercise.ipynb)**
 
 ---
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learning_PySpark)**
