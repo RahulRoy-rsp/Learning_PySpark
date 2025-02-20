@@ -133,5 +133,57 @@ df1.join(df2, df1.player_id == df2.player_id, "inner").show()
 
 ---
 
+## 8. Count of the dataframe (`count()`)
+
+**Syntax:**
+```python
+df.count()
+```
+
+**Example:**
+```python
+df.count()
+```
+
+**Explanation:**
+- Shows the number of rows in the dataframe.
+
+---
+
+## 9. Columns in the dataframe (`columns`)
+
+**Syntax:**
+```python
+df.columns
+```
+
+**Example:**
+```python
+df.columns
+```
+
+**Explanation:**
+- Shows the columns available in the dataframe.
+
+---
+
+## 10. Schema of the dataframe (`printSchema()`)
+
+**Syntax:**
+```python
+df.printSchema()
+```
+
+**Example:**
+```python
+df.printSchema()
+```
+
+**Explanation:**
+- Shows the schema of the dataframe, typically shows the column name with its data type.
+
+---
+
+
 > **Note:**  
 > These are just a few commonly used DataFrame operations in PySpark. Each method has additional parameters and alternative implementations to suit different use cases. PySpark provides many more powerful methods for data transformation and analysis. 🚀  
