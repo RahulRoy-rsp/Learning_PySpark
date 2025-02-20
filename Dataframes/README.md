@@ -13,8 +13,8 @@
 - **Scalability**: Designed to handle big data across distributed systems.
 - **Interoperability**: Can be converted to/from RDDs and Pandas DataFrames.
 
-## [Creating a DataFrame in PySpark]()
+## [Creating a DataFrame in PySpark](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/dataframes.md#creating-dataframes-in-pyspark)
 
-## Practice what you've learned by working on these exercises: [Exercise]()
+## Practice what you've learned by working on these exercises: [Exercise](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-exercise.md#pyspark-dataframe-exercise)
 
-## [Solutions]()
+## [Solutions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/df-solutions.md)
