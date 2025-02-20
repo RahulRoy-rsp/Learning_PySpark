@@ -22,7 +22,7 @@ spark
 
 ---
 
-# [Solution 1]()
+# [Solution 1](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations-exercise.md#exercise-1-create-a-dataframe-and-do-the-following-operation)
 
 - Creating dataframe and inserting records.
     ```python
@@ -88,7 +88,7 @@ spark
 
 ---
 
-# [Solution 2]()
+# [Solution 2](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations-exercise.md#exercise-2-read-a-csv-file-and-create-a-dataframe-using-it-with-specific-data-types-and-do-the-following-operation-file-name-players1csv)
 
 - Reading a csv and creating a dataframe with specific schema.
     ```python
@@ -199,6 +199,6 @@ spark
 **[Dataframe Operations](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations.md#pyspark-dataframe-operations)**
 **[Questions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations-exercise.md)**
 **[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/tree/main/Dataframe_Operations/csv-files)**
-
+**[Notebook Solution](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df_operations_exercise.ipynb)**
 ---
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learning_PySpark)**
