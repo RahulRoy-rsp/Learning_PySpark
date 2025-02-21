@@ -230,8 +230,8 @@ spark
 **[Creating Dataframes](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframes/dataframes.md#creating-dataframes-in-pyspark)**
 **[Dataframe Operations](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations.md#pyspark-dataframe-operations)**
 **[Aggregation Operations](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Aggregation_Operations/df-agg-operations.md#pyspark-dataframe-aggregation-methods)**
-**[Questions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Aggregation_Operations/df-operations-exercise.md)**
-**[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/tree/main/Aggregation_Operations/csv-files)**
+**[Questions](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Aggregation_Operations/df-agg-exercise.md#pyspark-dataframe-aggregation-operations-exercise)**
+**[Download CSV](https://github.com/RahulRoy-rsp/Learning_PySpark/tree/main/Aggregation_Operations/csv_files)**
 
 ---
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learning_PySpark)**
