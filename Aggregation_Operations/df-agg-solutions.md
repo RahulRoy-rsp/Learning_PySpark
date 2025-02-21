@@ -22,7 +22,7 @@ spark
 
 ---
 
-# [Solution 1](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Dataframe_Operations/df-operations-exercise.md#exercise-1-create-a-dataframe-and-do-the-following-operation)
+# [Solution 1](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Aggregation_Operations/df-agg-exercise.md#exercise-1-create-a-dataframe-with-specific-data-types-and-do-the-following-operation)
 
 - Create a DataFrame with specific columns and datatypes & Insert records
 
@@ -139,7 +139,7 @@ spark
 
 ---
 
-# [Solution 2]()
+# [Solution 2](https://github.com/RahulRoy-rsp/Learning_PySpark/blob/main/Aggregation_Operations/df-agg-exercise.md#exercise-2-read-a-csv-file-and-create-a-dataframe-using-it-with-specific-data-types-and-do-the-following-operation-file-name-players2csv)
 
 - Reading a csv and creating a dataframe with specific schema.
     ```python
