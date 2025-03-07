@@ -22,7 +22,7 @@ spark
 
 ---
 
-# [Solution 1]()
+# [Solution 1](df-functions-exercise.md#exercise-1-window-functions)
 
 - Create a DataFrame with specific columns and datatypes & Insert records
 
